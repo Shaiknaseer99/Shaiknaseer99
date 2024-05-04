@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 📝 I regularly write articles on [Software Engineering](Software Engineering)
-
+- 📝 I regularly write articles on Software Engineering
 - 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **naseershaik1976@gmail.com**
